@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+mangum
+# Needed by core/config and settings
+pydantic-settings
+# Used by weather endpoint for HTTP calls
+httpx
+# Concurrency helpers used in weather endpoint
+asyncer
+fastapi-pagination
+# Optional: used in exception typing and future models
+sqlmodel

@@ -96,8 +96,8 @@ uv sync
 3. **Access the API**
 
    - 🌐 API: `http://127.0.0.1:9096`
-   - 📖 Swagger UI: `http://127.0.0.1:9096/api/v1/docs`
-   - 📄 ReDoc: `http://127.0.0.1:9096/api/v1/redoc`
+   - 📖 Swagger UI: `http://127.0.0.1:9096/docs`
+   - 📄 ReDoc: `http://127.0.0.1:9096/redoc`
 
 ---
 
@@ -425,8 +425,8 @@ uv sync
 3. **Доступ к API**
 
    - 🌐 API: `http://127.0.0.1:9096`
-   - 📖 Swagger UI: `http://127.0.0.1:9096/api/v1/docs`
-   - 📄 ReDoc: `http://127.0.0.1:9096/api/v1/redoc`
+   - 📖 Swagger UI: `http://127.0.0.1:9096/docs`
+   - 📄 ReDoc: `http://127.0.0.1:9096/redoc`
 
 ---
 
